@@ -5,4 +5,3 @@ ethon==0.1.2
 cryptg
 tgcrypto
 pyrogram==1.4.16
-umongo
